@@ -15,7 +15,7 @@ This project showcases a collection of profile cards using a swiper slider for s
 
 ## 🌐 Demo
 
-You can view a live demo of the cards [here](doaaosamak.github.io/Cards-Frontend/).
+You can view a live demo of the cards [here]([doaaosamak.github.io/Cards-Frontend/](https://doaaosamak.github.io/Cards-Frontend/)).
 
 ## ✨ Features
 
